@@ -28,7 +28,7 @@ def surfs_up():
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/>"
         f"/api/v1.0/<start><br/>"
-        f"/api/v1.0/<start>/<end>`"
+        f"/api/v1.0/<start>/<end>"
     )
 
 ###Convert the query results to a dictionary using `date` as the key and `prcp` as the value.
